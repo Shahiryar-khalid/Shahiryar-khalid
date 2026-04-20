@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shahiryar Khalid
 
-<!--
-**Shahiryar-khalid/Shahiryar-khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in SQL, Python, Excel, and Power BI. I work on data cleaning, dashboards, reporting, automation, and business analytics.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python (Pandas, NumPy)
+- Excel
+- Power BI
+- Matplotlib
+- Data Cleaning
+- Dashboard Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Customer Sales Analytics Dashboard
+- Customer Churn Prediction Model
+- E-commerce Order Processing System
+
+## Education
+- Master's in Accounting & Finance
+- Master's in International Economics & Audit
+
+## Links
+- LinkedIn: https://linkedin.com/in/kshahiryar
+- Email: shahiryarkhalid@hotmail.com
