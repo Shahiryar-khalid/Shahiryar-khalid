@@ -18,8 +18,9 @@ Data Analyst with experience in SQL, Python, Excel, and Power BI. I work on data
 
 ## Education
 - Master's in Accounting & Finance
-- Master's in International Economics & Audit
+- Master's in Audit, Economics & Finance
+- Bachelor's in Business Administration
 
 ## Links
-- LinkedIn: https://linkedin.com/in/kshahiryar
+- LinkedIn: https://linkedin.com/in/shahiryarkhalid
 - Email: shahiryarkhalid@hotmail.com
